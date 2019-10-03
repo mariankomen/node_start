@@ -1,8 +1,8 @@
-let fs1 = require('fs');
+const fs1 = require('fs');
 
-let photo1 = '/ang';
-let photo2 = '/Js1';
-let photo3 = '/nd';
+const photo1 = '/ang';
+const photo2 = '/Js1';
+const photo3 = '/nd';
 
 fs1.mkdir('photos', (err) => {
 
