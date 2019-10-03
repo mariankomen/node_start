@@ -1,18 +1,18 @@
-let student1 = {
+const student1 = {
     name: 'Marian',
     surname: ' Lyzhychka ',
     university: 'Lviv Polyrechnic',
     knowledge: '   JavaScript \n'
 };
 
-let student2 = {
+const student2 = {
     name: 'Stepan',
     surname: 'Giga',
     university: 'LNMU',
     knowledge: ' C++\n'
 };
 
-let student3 = {
+const student3 = {
     name: ' Myhailo',
     surname: ' Zmusnyi',
     university: ' Lviv Polytechnic ',
@@ -20,21 +20,21 @@ let student3 = {
 };
 
 
-let student4 = {
+const student4 = {
     name: ' Oleksandt ',
     surname: ' Dulianutskiy ',
     university: ' Lviv Lisotechnic ',
     knowledge: ' C# \n'
 };
 
-let student5 = {
+const student5 = {
     name: ' Ivan ',
     surname: ' Kandiak ',
     university: ' Bursa #34 ',
     knowledge: ' Undefined\n'
 };
 
-let student6 = {
+const student6 = {
     name: ' Volodya ',
     surname: ' Zelenskiy',
     university: ' KPI ',
