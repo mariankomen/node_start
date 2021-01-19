@@ -14,5 +14,6 @@ fs1.mkdir('photos', (err) => {
 module.exports = {
     f1: photo1,
     f2: photo2,
-    f3: photo3
+    f3: photo3,
+    f4: photo2
 };
